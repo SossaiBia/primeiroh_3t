@@ -1,0 +1,27 @@
+.calculadora {
+    padding: 10px;
+    background: rgb(175, 94, 94);
+    width: 200px;
+
+}
+.calculadora input {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 25px;
+}
+.spResul {
+    background-color: black;
+    
+
+
+
+}
+
+#btnCalc {
+    width: 50px;
+    padding: 5px;
+    background: rgb(79, 148, 88);
+    
+
+}
